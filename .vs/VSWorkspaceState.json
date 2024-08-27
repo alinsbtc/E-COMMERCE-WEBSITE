@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\E-Commerce Mobile Phone",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shared",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shared\\Components",
+    "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shared\\Components\\Cart"
+  ],
+  "SelectedNode": "\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\AdminDashboardVM.cs",
+  "PreviewInSolutionExplorer": false
+}

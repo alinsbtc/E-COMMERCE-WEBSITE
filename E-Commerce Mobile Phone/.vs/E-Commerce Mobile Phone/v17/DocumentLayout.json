@@ -1,0 +1,720 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\data\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\data\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\dbcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\dbcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\dbcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\dbcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\data\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\data\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\dbproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\dbproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\dbproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\dbproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\data\\dbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\data\\dbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\dbcustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\dbcustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\dbcustomers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\dbcustomers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\dbcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\dbcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\dborderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\dborderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\dborders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\dborders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\admindashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\admindashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\data\\dborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\data\\dborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\shop\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\shop\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\shop\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\shop\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|c:\\users\\asus\\desktop\\didong\\doanchuyennganh\\e-commerce mobile phone\\e-commerce mobile phone\\e-commerce mobile phone\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A065A960-CEFF-4D08-A1F8-DBCE0822C5CE}|E-Commerce Mobile Phone\\E-Commerce Mobile Phone.csproj|solutionrelative:e-commerce mobile phone\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCategories\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCategories\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:25:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbProducts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbProducts\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbProducts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:23:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:23:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbProductsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbProductsController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbProductsController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAUwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:23:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbCustomer.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Data\\DbCustomer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbCustomer.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Data\\DbCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:22:11.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Create.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:21:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCategoriesController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCategoriesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCategoriesController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCategoriesController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAUwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:15:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbCategory.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Data\\DbCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbCategory.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Data\\DbCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:09:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCustomersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCustomersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCustomersController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbCustomersController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAUwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:15:50.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbProduct.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Data\\DbProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbProduct.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Data\\DbProduct.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:47:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbOrder.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Data\\DbOrder.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbOrder.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Data\\DbOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:12:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbOrdersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbOrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbOrdersController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\DbOrdersController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAUwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:12:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CategoryVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:10:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CreateProductVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CreateProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:10:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbCustomers\\Index.cshtml",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:20:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAgwNgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T23:29:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA/wDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:01:54.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboardVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\AdminDashboardVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\AdminDashboardVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\AdminDashboardVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\AdminDashboardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:20:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CartItemVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CartItemVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CartItemVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CartItemVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:05:53.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbOrders\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\DbOrders\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:19:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:21:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:06:02.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:58:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CustomerVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CustomerVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CustomerVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CustomerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:26:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:06:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:06:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\ViewModels\\CheckoutVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\ViewModels\\CheckoutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:06:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AQIAALUAAAAAAAAAAAAgwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:02:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:02:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAUwCgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:50:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Shop\\ProductItem.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\ProductItem.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Shop\\ProductItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:02:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Search.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Shop\\Search.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Shop\\Search.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Shop\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:02:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbContent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbContent.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Data\\DbContent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Data\\DbContent.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Data\\DbContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:57:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwHMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:55:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:55:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwGIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:53:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwHEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:53:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACgBAAAAAAAAAAAgwHEBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:51:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAgwBcBAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:21:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Mobile Phone\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\didong\\DoAnChuyenNganh\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\E-Commerce Mobile Phone\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Commerce Mobile Phone\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:19:14.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
